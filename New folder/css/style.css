@@ -1,0 +1,18 @@
+  .row{
+  	background-color: purple;
+  }
+	   
+     #textarea{
+	border-style: ridge;
+	text-align: center;
+    margin-left: 200px;
+	
+	margin-top: 100px;
+	width: 300px;
+	height:300px;
+}
+#al{
+	
+	margin-left: 200px;
+	margin-top: 10px;
+}
